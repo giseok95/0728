@@ -14,6 +14,7 @@ public class practice3 {
 				line++;
 			}
 		}
+
 	}
 }
 
